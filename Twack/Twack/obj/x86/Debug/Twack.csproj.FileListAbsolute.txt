@@ -1,0 +1,44 @@
+C:\Users\Thomas Arellano\AppData\Local\Temporary Projects\Twack\bin\Debug\Twack.exe
+C:\Users\Thomas Arellano\AppData\Local\Temporary Projects\Twack\bin\Debug\Twack.pdb
+C:\Users\Thomas Arellano\AppData\Local\Temporary Projects\Twack\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Thomas Arellano\AppData\Local\Temporary Projects\Twack\obj\x86\Debug\Twack.Form1.resources
+C:\Users\Thomas Arellano\AppData\Local\Temporary Projects\Twack\obj\x86\Debug\Twack.Properties.Resources.resources
+C:\Users\Thomas Arellano\AppData\Local\Temporary Projects\Twack\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Thomas Arellano\AppData\Local\Temporary Projects\Twack\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Thomas Arellano\AppData\Local\Temporary Projects\Twack\obj\x86\Debug\Twack.exe
+C:\Users\Thomas Arellano\AppData\Local\Temporary Projects\Twack\obj\x86\Debug\Twack.pdb
+C:\Users\Thomas Arellano\documents\visual studio 2010\Projects\Twack\Twack\obj\x86\Debug\Twack.exe
+C:\Users\Thomas Arellano\documents\visual studio 2010\Projects\Twack\Twack\obj\x86\Debug\Twack.pdb
+C:\Users\Thomas Arellano\documents\visual studio 2010\Projects\Twack\Twack\bin\Debug\Twack.exe
+C:\Users\Thomas Arellano\documents\visual studio 2010\Projects\Twack\Twack\bin\Debug\Twack.pdb
+C:\Users\Thomas Arellano\documents\visual studio 2010\Projects\Twack\Twack\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Thomas Arellano\documents\visual studio 2010\Projects\Twack\Twack\obj\x86\Debug\Twack.Form1.resources
+C:\Users\Thomas Arellano\documents\visual studio 2010\Projects\Twack\Twack\obj\x86\Debug\Twack.Form2.resources
+C:\Users\Thomas Arellano\documents\visual studio 2010\Projects\Twack\Twack\obj\x86\Debug\Twack.Form3.resources
+C:\Users\Thomas Arellano\documents\visual studio 2010\Projects\Twack\Twack\obj\x86\Debug\Twack.Properties.Resources.resources
+C:\Users\Thomas Arellano\documents\visual studio 2010\Projects\Twack\Twack\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Thomas Arellano\documents\visual studio 2010\Projects\Twack\Twack\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Documents\21-1-14\21-1-14\Twack\Twack\obj\x86\Debug\Twack.exe
+G:\Documents\21-1-14\21-1-14\Twack\Twack\obj\x86\Debug\Twack.pdb
+G:\Documents\21-1-14\21-1-14\Twack\Twack\bin\Debug\Twack.exe
+G:\Documents\21-1-14\21-1-14\Twack\Twack\bin\Debug\Twack.pdb
+G:\Documents\21-1-14\21-1-14\Twack\Twack\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Documents\21-1-14\21-1-14\Twack\Twack\obj\x86\Debug\Twack.Properties.Resources.resources
+G:\Documents\21-1-14\21-1-14\Twack\Twack\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Documents\21-1-14\21-1-14\Twack\Twack\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Documents\21-1-14\21-1-14\Twack\Twack\obj\x86\Debug\Twack.Launcher.resources
+G:\Documents\21-1-14\21-1-14\Twack\Twack\obj\x86\Debug\Twack.Level.resources
+G:\Documents\21-1-14\21-1-14\Twack\Twack\obj\x86\Debug\Twack.Credits.resources
+C:\Users\Thomas Arellano\Desktop\Twack\Twack\Twack\obj\x86\Debug\Twack.exe
+C:\Users\Thomas Arellano\Desktop\Twack\Twack\Twack\obj\x86\Debug\Twack.pdb
+C:\Users\Thomas Arellano\Desktop\Twack\Twack\Twack\bin\Debug\Twack.exe
+C:\Users\Thomas Arellano\Desktop\Twack\Twack\Twack\bin\Debug\Twack.pdb
+C:\Users\Thomas Arellano\Desktop\Twack\Twack\Twack\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Thomas Arellano\Desktop\Twack\Twack\Twack\obj\x86\Debug\Twack.Credits.resources
+C:\Users\Thomas Arellano\Desktop\Twack\Twack\Twack\obj\x86\Debug\Twack.Launcher.resources
+C:\Users\Thomas Arellano\Desktop\Twack\Twack\Twack\obj\x86\Debug\Twack.Level.resources
+C:\Users\Thomas Arellano\Desktop\Twack\Twack\Twack\obj\x86\Debug\Twack.Properties.Resources.resources
+C:\Users\Thomas Arellano\Desktop\Twack\Twack\Twack\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Thomas Arellano\Desktop\Twack\Twack\Twack\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\DDC\Desktop\Sem 1 - 2013-2014 Student Work\ICS3 Assignments\ICS3 Final Project\Twack by Dylan and Thomas\Twack\Twack\obj\x86\Debug\Twack.exe
+C:\Users\DDC\Desktop\Sem 1 - 2013-2014 Student Work\ICS3 Assignments\ICS3 Final Project\Twack by Dylan and Thomas\Twack\Twack\obj\x86\Debug\Twack.pdb
